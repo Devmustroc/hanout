@@ -4,7 +4,6 @@
 [![React 19](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 **Hanout** (*حَانُوت*, meaning *"Shop"* or *"Store"*) is a modern, high-performance **multi-tenant e-commerce platform** built with Next.js 15 (App Router), React 19, Tailwind CSS v4, and Radix UI / Shadcn.
 
@@ -89,12 +88,6 @@ hanout/
 ├── public/               # Static assets
 └── styles/               # Global CSS & Tailwind v4 imports
 ```
-
----
-
-## 📜 License
-
-Distributed under the MIT License.
 
 ---
 
